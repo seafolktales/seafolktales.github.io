@@ -238,11 +238,11 @@
 
 @font-face {
 	font-family: Simonetta;
-	font-weight: normal;
+	font-weight: black;
 	font-style: normal;
-	src: url('fonts/Simonetta-Regular.eot');
-	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Simonetta-Regular.ttf') format('truetype');
+	src: url('fonts/Simonetta-Black.eot');
+	src: url('fonts/Simonetta-Black.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Simonetta-Black.ttf') format('truetype');
 }
 
 @font-face {
@@ -256,11 +256,11 @@
 
 @font-face {
 	font-family: Simonetta;
-	font-weight: black;
+	font-weight: normal;
 	font-style: normal;
-	src: url('fonts/Simonetta-Black.eot');
-	src: url('fonts/Simonetta-Black.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Simonetta-Black.ttf') format('truetype');
+	src: url('fonts/Simonetta-Regular.eot');
+	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Simonetta-Regular.ttf') format('truetype');
 }
 
 @font-face {
